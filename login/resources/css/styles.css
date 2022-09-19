@@ -1,7 +1,7 @@
 /* @import url('../../keycloak/lib/zocial/zocial.css');*/
 
 body {
-    background-color: rgb(63,81,181);
+    background-color: rgb(218,160,169);
     /*background-image: url('../img/bkgrnd.jpg');*/
     background-position: center center;
     background-attachment: fixed;
@@ -21,7 +21,7 @@ a {
 /* Change content to change the title of the page*/
 div#kc-header::after {
     padding-top: 3px;
-    content: 'FeedHenry Work Force Management';
+    content: 'cleaaaaarrrr';
     font-size: 40px;
     line-height: 50px;
     margin-bottom: 15px;
