@@ -3,7 +3,7 @@
 body {
     background-color: #FFFFFF;
     background-image: url('../img/clear-logo.svg');
-    background-position: center center;
+    background-position: /*center center*/ center;
     background-attachment: fixed;
     background-size: cover;
     background-repeat: no-repeat;
@@ -62,6 +62,7 @@ div#kc-form label {
 /**/
 div#kc-form-login {
     text-align: center;
+    text-indent: 15%;   /* add by me */
 }
 
 div#info-area {
