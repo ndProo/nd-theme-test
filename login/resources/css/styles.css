@@ -32,16 +32,16 @@ div#kc-header::after {
 div#kc-info {
 }
 
-/*title banner size and colour*/
+/*title banner size and colour
 div#kc-header {
     width:100%;
-    background-color: rgb(40,53,147);
+    background-color: #FFFFFF;
     padding-top: 2.5em;
     padding-bottom: 2.5em;
     padding-right: 2em;
     padding-left: 3em;
 }
-
+*/
 div#kc-content {
     position: absolute;
     top: 20%;
