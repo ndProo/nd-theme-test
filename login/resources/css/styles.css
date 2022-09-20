@@ -6,7 +6,7 @@ DANS GIT NE PAS OUBLIER DE RENAME IMAGE
 body {
     background-color: #FFFFFF;
     background-image: url('../img/clear-logo.png');
-    opacity: 0.5; 
+    opacity: 0.9; 
     background-position: center ;
     background-attachment: fixed;
     background-size: cover;  /*ou auto*/
