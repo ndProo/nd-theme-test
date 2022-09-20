@@ -5,7 +5,7 @@ DANS GIT NE PAS OUBLIER DE RENAME IMAGE
 */
 body {
     background-color: #FFFFFF;
-    background-image: url('../img/clear-logo.png');
+    background-image: url('../img/clear-logo.svg');
     opacity: 0.9; 
     background-position: center ;
     background-attachment: fixed;
