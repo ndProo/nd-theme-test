@@ -1,13 +1,13 @@
-@import url('../../keycloak/lib/zocial/zocial.css');
+/*@import url('../../keycloak/lib/zocial/zocial.css');*/
 
 /*
 DANS GIT NE PAS OUBLIER DE RENAME IMAGE
 */
 body {
-    background-color: #FFFFFF;
+    /*background-color: #FFFFFF;*/
     background-image: url('../img/clear-logo.svg');
     opacity: 0.9; 
-    background-position: center ;
+    background-position: center center ;
     background-attachment: fixed;
     background-size: cover;  /*ou auto*/
     background-repeat: no-repeat;
