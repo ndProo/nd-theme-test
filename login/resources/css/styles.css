@@ -1,36 +1,25 @@
 /* @import url('../../keycloak/lib/zocial/zocial.css');*/
 
 body {
-    background-color: #FFFFFF;
-    background-image: url('../img/clear-logo.svg');
-    background-position: /*center center*/ center top;
-    background-attachment: fixed;
-    background-size: 100% auto;  /*avt ; cover*/
-    background-repeat: no-repeat;
-   /* margin : auto   ---add by me */
-
-    /* color: #f5fdfd; */
-    font-family: monospace;
-    text-shadow: 0px 0px 5px #000;  /*me : 5 au lieu de 10*/
-    margin: 0px;
+    background: #bb00dd url('../img/clear-logo.svg') no-repeat center bottom fixed;  /* #FFFFFF blanc*/
+    background-size: cover;    
 }
 
-/*add*/
-img {
-    width: 400px;
+.style-header {
+	margin-top: 100px;
+	margin-bottom: 50px;
+	margin-left: -10px;
 }
-@media (max-width: 480px) {
-    img {
-        width: 100%;
-    }
+.style-header img {
+	width: 150px;
+	margin-bottom: 40px;
 }
-/*
-a {
-    color: #f5fdfd;
+.style-message {
+	margin-top: 20px;
 }
-*/
 
-/* Change content to change the title of the page*/
+
+/* Change content to change the title of the page
 div#kc-header::after {
     padding-top: 3px;
     content: 'CLEAR';
@@ -38,9 +27,8 @@ div#kc-header::after {
     line-height: 50px;
     margin-bottom: 15px;
 }
+*/
 
-div#kc-info {
-}
 
 /*title banner size and colour
 div#kc-header {
