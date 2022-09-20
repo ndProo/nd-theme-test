@@ -3,9 +3,9 @@
 body {
     background-color: #FFFFFF;
     background-image: url('../img/clear-logo.svg');
-    background-position: /*center center*/ center;
+    background-position: /*center center*/ center top;
     background-attachment: fixed;
-    background-size: cover;
+    background-size: 100% auto;  /*avt ; cover*/
     background-repeat: no-repeat;
 
     /* color: #f5fdfd; */
