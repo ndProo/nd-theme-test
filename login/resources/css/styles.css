@@ -4,8 +4,7 @@
 DANS GIT NE PAS OUBLIER DE RENAME IMAGE
 */
 body {
-    background: url('../img/clear-logo.svg');  
-    margin:0;
+    	margin:0;
 	padding:0;
 	background: url('../img/clear-logo.svg');  
 	background-size:cover;
@@ -187,7 +186,7 @@ div#kc-social-providers ul li span {
     display: inline;
     width: 100px;
 }
-
+/*
 a.zocial {
     border: none;
     background: -webkit-linear-gradient(top, rgba(255,255,255,0.8), rgba(255,255,255,0.1)) !important;
@@ -204,3 +203,4 @@ a.zocial {
     padding-top: 0.2em;
     padding-bottom: 0.2em;
 }
+*/
