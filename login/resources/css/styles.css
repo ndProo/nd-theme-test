@@ -4,15 +4,17 @@
 DANS GIT NE PAS OUBLIER DE RENAME IMAGE
 */
 body {
-    /*background-color: #FFFFFF;*/
-    background-image: url('../img/clear-logo.svg');
-    opacity: 0.9; 
+    background-color: #0b1d81;
+  /*    background-image: url('../img/clear-logo.svg');  
+    opacity: 0.9; */
     background-position: center center ;
     background-attachment: fixed;
     background-size: cover;  /*ou auto*/
+    background-size: 100% 100%;
     background-repeat: no-repeat;
     font-family: sans-serif;
-    width: 100% ;
+    width: 100%;
+    height: 100%;
     text-align: center;
 
 }
